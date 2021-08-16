@@ -1,0 +1,32 @@
+[
+   {
+      "minimumIncome": 0,
+      "maximumIncome": 18200,
+      "fixedTax": 0,
+      "variableTax": 0
+   },
+   {
+      "minimumIncome": 18201,
+      "maximumIncome": 37000,
+      "fixedTax": 0,
+      "variableTax": 0.19
+   },
+   {
+      "minimumIncome": 37001,
+      "maximumIncome": 87000,
+      "fixedTax": 3572,
+      "variableTax": 0.325
+   },
+   {
+      "minimumIncome": 87001,
+      "maximumIncome": 180000,
+      "fixedTax": 19822,
+      "variableTax": 0.37
+   },
+   {
+      "minimumIncome": 180001,
+      "maximumIncome": "999999999",
+      "fixedTax": 54232,
+      "variableTax": 0.45
+   }
+]
